@@ -19,7 +19,7 @@ This section details the deployment and teardown of the three-tier-architecture.
 ## Deployment Steps
 
 #### 1.	Clone the repo
-    git clone https://github.com/BJWRD/three-tier-architecture && cd three-tier-architecture
+    git clone https://github.com/priyankaborse0411/Challenge-1.git
     
 #### 2. Update the s3 bucket name to your own - `versions.tf`
 
